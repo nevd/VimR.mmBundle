@@ -1,0 +1,4 @@
+#!/bin/sh
+
+/usr/local/bin/vimr --wait -s "$MM_EDIT_FILEPATH"
+osascript -e 'tell app "MailMate" to activate'
