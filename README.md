@@ -1,2 +1,2 @@
 # VimR.mmBundle
-MailMate (heart) VimR
+MailMate :heart: VimR
